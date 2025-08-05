@@ -1,4 +1,4 @@
-# Calculator App — by Dodevca
+# Calculator App
 
 ## About This Project
 A simple calculator console application built with C# to perform basic arithmetic operations such as addition and subtraction. This project serves as a practice to reinforce fundamental programming concepts in C# including methods, console input/output, and program structure.
