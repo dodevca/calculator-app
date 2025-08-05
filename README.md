@@ -32,10 +32,10 @@ This is a console application designed to be run locally on your machine.
     Calculator.exe
     ```
 ## Future Improvements
-- Add multiplication and division operations.
-- Implement user input via console instead of hardcoded values.
-- Refactor program to support a simple menu-driven interface.
-- Handle invalid inputs and exceptions gracefully.
+- [ ] Add multiplication and division operations.
+- [ ] Implement user input via console instead of hardcoded values.
+- [ ] Refactor program to support a simple menu-driven interface.
+- [ ] Handle invalid inputs and exceptions gracefully.
 
 ## Contact & Collaboration
 Interested in discussing this project or collaborating?
