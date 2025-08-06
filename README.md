@@ -15,7 +15,7 @@ A simple calculator console application built with C# to perform basic arithmeti
 - Structured program with modular functions.
 - Console-based user interaction.
 
-## Live Demo (optional)
+## Live Demo
 This is a console application designed to be run locally on your machine.
 
 ## Installation and Usage (Local Setup)
